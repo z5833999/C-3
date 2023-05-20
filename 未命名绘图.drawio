@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T05:34:13.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="YNK1GAoqhe2nDJMgr-oh" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T05:35:10.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="GQz0anpyuNGuJiGxQU1i" version="21.3.2" type="github">
   <diagram name="第 1 页" id="dhoNqO2m6MTkpbJS3TuC">
     <mxGraphModel dx="1221" dy="743" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,13 +28,18 @@
         <mxCell id="7tqpkA7ohuQxdTKl_h8J-2" value="通过srcML工具转换为xml代码" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;arcSize=20;rounded=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="202" y="562" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tqpkA7ohuQxdTKl_h8J-7" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;arcSize=20;fontSize=14;" parent="1" source="7tqpkA7ohuQxdTKl_h8J-4" target="7tqpkA7ohuQxdTKl_h8J-6" edge="1">
+        <mxCell id="7tqpkA7ohuQxdTKl_h8J-7" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;arcSize=20;fontSize=14;" parent="1" source="7tqpkA7ohuQxdTKl_h8J-4" target="7tqpkA7ohuQxdTKl_h8J-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="492" y="589" />
+              <mxPoint x="492" y="592" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7tqpkA7ohuQxdTKl_h8J-10" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;arcSize=20;fontSize=14;" parent="1" source="7tqpkA7ohuQxdTKl_h8J-4" target="7tqpkA7ohuQxdTKl_h8J-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7tqpkA7ohuQxdTKl_h8J-10" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;arcSize=20;fontSize=14;" parent="1" source="7tqpkA7ohuQxdTKl_h8J-4" target="7tqpkA7ohuQxdTKl_h8J-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7tqpkA7ohuQxdTKl_h8J-4" value="符合&lt;br style=&quot;font-size: 14px;&quot;&gt;安全规则拦截&lt;br style=&quot;font-size: 14px;&quot;&gt;条件？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;arcSize=20;rounded=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="7tqpkA7ohuQxdTKl_h8J-4" value="符合&lt;br&gt;安全编码&lt;br&gt;规范？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;arcSize=20;rounded=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="362" y="547" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7tqpkA7ohuQxdTKl_h8J-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="7tqpkA7ohuQxdTKl_h8J-6" target="7tqpkA7ohuQxdTKl_h8J-4" edge="1">
